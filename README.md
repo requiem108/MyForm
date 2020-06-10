@@ -31,4 +31,4 @@ var prueba = new FORM(ejemplo);
 
  *Nota: si se agrega dos columnas que sumadas de largo sean 100% las colocara una a lado de la otra*
 
- [Contribution guidelines for this project](Diagrama/diagrama.jpg);
+ [Diagrama](Diagrama/diagrama.jpg);
