@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\BIBLIOTECA JS"
+		},
+		{
+			"path": "..\\..\\MAT1372-Docs Proveedor\\PROVEEDORES"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "form"
+	}
+}
