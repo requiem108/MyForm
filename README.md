@@ -1,6 +1,6 @@
-#Form en js tipo componente
+# Form en js tipo componente
 
-##Instalacion
+## Instalacion
 Copia el contenido de la clase Form
 
 ## Uso
@@ -23,10 +23,12 @@ var prueba = new FORM(ejemplo);
   se crea arreglo que contenga un objeto java con las propiedades listadas
 *Nota: no todas las propiedades son necesarias, solo titulo, input*
 
-###Columna
+### Columna
 
  prueba.setColumna('columnaA','50%',filasA);
 
  Se ingresa Nombre,largo,filas
 
  *Nota: si se agrega dos columnas que sumadas de largo sean 100% las colocara una a lado de la otra*
+
+ [Contribution guidelines for this project](docs/Diagrama/diagrama.jpg);
