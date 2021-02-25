@@ -6,14 +6,14 @@ const contenedor = document.getElementById('contenedor');
 
 
 filasA = []
-filasA['opcionA']={
-  titulo:'titulo opcionA',
+filasA['opcionAlba']={
+  titulo:'titulo label opcionA',
   input:'text',
   valor:''  
 };
 
 filasA['opcionB']={
-  titulo:'titulo opcionA',
+  titulo:'titulo label2 opcionA',
   input:'text',
   valor:''  
 }
